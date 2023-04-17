@@ -17,7 +17,7 @@ The main featues of this software includes:
       * Patients have a clear idea of how many doctors and departments exist in the hospital
 ## How to run
   First install the required packages:
-    * Tkinter modules: 
+    Tkinter modules: 
     
     
        ```
@@ -26,15 +26,15 @@ The main featues of this software includes:
        pip install datatime
        pip install PIL
        ```
-    Now download Mysql and create a working database on the server and add your db infomations in the python main.py file.
+   Now download Mysql and create a working database on the server and add your db infomations in the python main.py file.
     
-    The project is ready to go....
+   The project is ready to go....
     
-    ## Screenshots:
+ ## Screenshots:
       
-    ## Resources:
+ ## Resources:
     
-    ## Project documentation
+ ## Project documentation
     
     
       
